@@ -1,8 +1,8 @@
 streamlit
 pandas
 numpy
-pandas_datareader
 matplotlib
 scikit-learn
 keras
 tensorflow
+-e git+https://github.com/pydata/pandas-datareader.git#egg=pandas-datareader
