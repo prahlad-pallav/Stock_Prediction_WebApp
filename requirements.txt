@@ -3,6 +3,6 @@ pandas
 numpy
 pandas_datareader
 matplotlib
-sklearn
+scikit-learn
 keras
 tensorflow
